@@ -5,7 +5,7 @@
 layout: home
 ---
 
-**I'm Griffin Caprio**. I'm an entrepreneur and technologist. 
+**I'm Griffin Caprio**. I'm a husband, father, entrepreneur and technologist. 
 
 I've done a lot of differnt things over the years, including as consulting CTO, podcaster, [advisor](https://www.topstep.com) and [mentor](http://www.thejuntoinstitute.com).
 
