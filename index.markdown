@@ -9,7 +9,7 @@ layout: home
 
 I've done a lot of differnt things over the years, including as consulting CTO, podcaster, [advisor](https://www.topstep.com) and [mentor](http://www.thejuntoinstitute.com).
 
-Feel free to say hi on [Twitter](https://twitter.com/gcaprio), [email](mailto:me@griffincaprio.com?subject=Hi!) or [LinkedIn](https://www.linkedin.com/in/griffincaprio/).
+Feel free to say 👋 on [Twitter](https://twitter.com/gcaprio), [email](mailto:me@griffincaprio.com?subject=Hi!) or [LinkedIn](https://www.linkedin.com/in/griffincaprio/).
 
 Getting people together seems to be a past time of mine and I've started groups focused on [CTOs](http://www.chicagoctoforum.com), [Entrepreneurs](http://www.meetup.com/Bootstrappers-Breakfast-Chicago), and [Lean Startup](https://www.linkedin.com/company/chicago-lean-startup-circle/).
 
