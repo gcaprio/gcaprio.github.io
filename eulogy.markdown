@@ -8,7 +8,7 @@ permalink: /eulogy/
 ---
 
 
-Carmen names: dad, husband, Carmie, son, big guy, grandpa, brother but even all those names couldn't encompass everything that the man was. 
+My dad Carmen was known by many names: dad, husband, Carmie, son, big guy, grandpa, brother but even all those names couldn't encompass everything that the man was. 
 
 His life was full of challenges and tough situations from the start. He spent his formative years searching for stability and a sense of belonging.  As a result, my most vivid memories of him are as a connecter. Whether he was the guy working the room without leaving his chair or the guy walking around trying to get you to buy raffle tickets with an "oh by the way have a free shot" tray of drinks, he had a gravity about him. A personality that encouraged you to tell and retell his stories.  "I was there when Carmie.....'  they'd start. His smile and laugh could make you feel like you've known him for years and you two were old friends. 
 
