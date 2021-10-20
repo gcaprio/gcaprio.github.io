@@ -30,6 +30,8 @@ I also do the occasional [book](http://www.computer.org/csdl/mags/ds/2008/08/mds
 [watch](http://forums.timezone.com/index.php?t=tree&goto=6331023&rid=0#msg_6331023) reviews as well as
 [article contributions](http://technori.com/2011/08/145-how-to-find-a-developer-in-chicago). 
 
+Sometimes I get quoted on topics like [e-commerce](https://www.shopify.com/retail/is-rent-the-new-cac) as well.
+
 Don't get me started on [GMail and ✉️  in general](https://www.gmass.co/gmailgenius/how-i-email-griffin-caprio/#.Xo6cXshKg2w). 
 
 
