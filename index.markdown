@@ -7,7 +7,7 @@ layout: home
 
 **I'm Griffin Caprio**. I'm a husband, father, entrepreneur, and technologist. 
 
-I've done a lot of different things over the years, including consulting CTO, podcaster, [advisor](https://www.topstep.com), and [mentor](http://www.thejuntoinstitute.com).
+I've done a lot of different things over the years, mostly as a technology leader and consulting CTO.
 
 Feel free to say 👋 on [Twitter](https://twitter.com/gcaprio), [email](mailto:me@griffincaprio.com?subject=Hi!), or [LinkedIn](https://www.linkedin.com/in/griffincaprio/).
 
@@ -29,7 +29,7 @@ I also do the occasional [book](http://www.computer.org/csdl/mags/ds/2008/08/mds
 [watch](http://forums.timezone.com/index.php?t=tree&goto=6331023&rid=0#msg_6331023) reviews as well as
 [article contributions](http://technori.com/2011/08/145-how-to-find-a-developer-in-chicago). 
 
-Sometimes I get quoted on topics like [e-commerce](https://www.shopify.com/retail/is-rent-the-new-cac) and [email](https://www.gmass.co/gmailgenius/how-i-email-griffin-caprio/) as well.
+Sometimes I get quoted on topics like [e-commerce](https://www.shopify.com/retail/is-rent-the-new-cac) as well.
 
 Don't get me started on [GMail and ✉️  in general](https://www.gmass.co/gmailgenius/how-i-email-griffin-caprio/#.Xo6cXshKg2w). 
 
