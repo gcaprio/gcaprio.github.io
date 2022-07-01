@@ -23,7 +23,7 @@ Popular topics I've written about: [my dad](https://technori.com/2011/03/4767-ca
 [Unit Testing](http://www.code-magazine.com/Article.aspx?quickid=0411031), 
 [Software Factories](https://www.griffincaprio.com/blog/2014/09/software-factories-refactoring-an-industry.html), 
 [SOA](http://www.code-magazine.com/Article.aspx?quickid=0505081), 
-[Dependency Injection](http://www.griffincaprio.com/blog/2018/04/design-patterns-dependency-injection.html), and 
+[Dependency Injection](https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/september/design-patterns-dependency-injection), and 
 [DSLs](http://www.ddj.com/dept/architect/184429825).
 
 I also do the occasional [book](http://www.computer.org/csdl/mags/ds/2008/08/mds2008080003-abs.html) and
