@@ -17,7 +17,6 @@ I've been an active OSS developer over the years, notably helping create [Spring
 
 
 ## Writing
-I ✍🏻 as much as I can, both in my [blog](http://www.griffincaprio.com/blog/) as well as for others.  
 
 Popular topics I've written about: [my dad](https://technori.com/2011/03/4767-carmen/),
 [Unit Testing](http://www.code-magazine.com/Article.aspx?quickid=0411031), 
@@ -30,7 +29,7 @@ I also do the occasional [book](http://www.computer.org/csdl/mags/ds/2008/08/mds
 [watch](http://forums.timezone.com/index.php?t=tree&goto=6331023&rid=0#msg_6331023) reviews as well as
 [article contributions](http://technori.com/2011/08/145-how-to-find-a-developer-in-chicago). 
 
-Sometimes I get quoted on topics like [e-commerce](https://www.shopify.com/retail/is-rent-the-new-cac) as well.
+Sometimes I get quoted on topics like [e-commerce](https://www.shopify.com/retail/is-rent-the-new-cac) and [email](https://www.gmass.co/gmailgenius/how-i-email-griffin-caprio/) as well.
 
 Don't get me started on [GMail and ✉️  in general](https://www.gmass.co/gmailgenius/how-i-email-griffin-caprio/#.Xo6cXshKg2w). 
 
