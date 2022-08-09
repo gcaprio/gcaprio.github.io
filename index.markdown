@@ -35,7 +35,7 @@ Don't get me started on [GMail and ✉️  in general](https://www.gmass.co/gmai
 
 
 ## Talks
-I like to give talks, mostly around product development, [building technology teams](https://pbell.wistia.com/medias/ta42qetgj5), and [developing audiences](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiSoqfWz_vvAhVFLs0KHbKiA_QQFjABegQIBRAD&url=https%3A%2F%2Fwww.thejuntoinstitute.com%2Fevents%2Fbuilding-organic-marketing-engines-using-owned-channels%2F&usg=AOvVaw1mxQ-dibu3vVaA3KgwSpV3) through [innovative ways](https://blog.propllr.com/teach-customers-to-get-results-and-referrals).
+I like to give talks, mostly around product development, [building technology teams](https://www.ctoconnection.com/topics/engineering-influencers/videos/2016-11-01-engineering-at-scale-running-a-100-person-team), and [developing audiences](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiSoqfWz_vvAhVFLs0KHbKiA_QQFjABegQIBRAD&url=https%3A%2F%2Fwww.thejuntoinstitute.com%2Fevents%2Fbuilding-organic-marketing-engines-using-owned-channels%2F&usg=AOvVaw1mxQ-dibu3vVaA3KgwSpV3) through [innovative ways](https://blog.propllr.com/teach-customers-to-get-results-and-referrals).
 
 ## Random Facts
 Absurdly, I have an [IMDB](http://www.imdb.com/name/nm5974623/) page and 
