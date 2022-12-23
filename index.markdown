@@ -20,7 +20,7 @@ I've been an active OSS developer over the years, notably helping create [Spring
 
 Popular topics I've written about: [my dad](https://technori.com/2011/03/4767-carmen/),
 [Unit Testing](http://www.code-magazine.com/Article.aspx?quickid=0411031), 
-[Software Factories](https://www.griffincaprio.com/blog/2014/09/software-factories-refactoring-an-industry.html), 
+[Software Factories](https://www.griffincaprio.com/software-factories-article/), 
 [SOA](http://www.code-magazine.com/Article.aspx?quickid=0505081), 
 [Dependency Injection](https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/september/design-patterns-dependency-injection), and 
 [DSLs](http://www.ddj.com/dept/architect/184429825).
