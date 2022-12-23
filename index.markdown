@@ -18,7 +18,7 @@ I've been an active OSS developer over the years, notably helping create [Spring
 
 ## Writing
 
-Popular topics I've written about: [my dad](https://technori.com/2011/03/4767-carmen/),
+Popular topics I've written about: [my dad](https://technori.com/2011/03/4767-carmen/) whom I greatly [miss](https://www.griffincaprio.com/eulogy),
 [Unit Testing](http://www.code-magazine.com/Article.aspx?quickid=0411031), 
 [Software Factories](https://www.griffincaprio.com/software-factories-article/), 
 [SOA](http://www.code-magazine.com/Article.aspx?quickid=0505081), 
