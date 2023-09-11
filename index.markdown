@@ -5,16 +5,15 @@
 layout: home
 ---
 
-**I'm Griffin Caprio**. I'm a husband, father, entrepreneur, and technologist. 
+**I'm Griffin Caprio**. I'm a husband, father, [entrepreneur](https://nofixedplans.xyz), and technologist. 
 
 I've done a lot of different things over the years, mostly as a technology leader and consulting CTO.
 
-Feel free to say 👋 on [Twitter](https://twitter.com/gcaprio), [email](mailto:me@griffincaprio.com?subject=Hi!), or [LinkedIn](https://www.linkedin.com/in/griffincaprio/).
+Feel free to say 👋 on ~~[Twitter](https://twitter.com/gcaprio)~~, [email](mailto:me@griffincaprio.com?subject=Hi!), or [LinkedIn](https://www.linkedin.com/in/griffincaprio/).
 
 Getting people together seems to be a pasttime of mine and I've started groups focused on [CTOs](http://www.chicagoctoforum.com), [Entrepreneurs](http://www.meetup.com/Bootstrappers-Breakfast-Chicago), and [Lean Startup](https://www.linkedin.com/company/chicago-lean-startup-circle/).
 
 I've been an active OSS developer over the years, notably helping create [Spring.net](http://springframework.net/)
-
 
 ## Writing
 
